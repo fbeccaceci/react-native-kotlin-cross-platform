@@ -1,0 +1,3 @@
+type RootDrawerParams = {
+  Fibonacci: undefined;
+};
